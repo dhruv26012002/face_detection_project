@@ -1,1 +1,2 @@
 - Designed a deep face detection model for detecting faces in real-time using a webcam
+- it is guided project under the Nicholas Renotte.
